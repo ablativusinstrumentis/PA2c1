@@ -1,9 +1,8 @@
 class Main {
     main() : Bool {
-        5 = (new Object) 
-    };
-    
-    compare_mixed() : Bool {]
-        "hello" = true
+        new A = new B
     };
 };
+
+class A {};
+class B {};
